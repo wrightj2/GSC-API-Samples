@@ -1,0 +1,49 @@
+// BODY
+{
+    "type": "WEB",
+    "startDate": "2021-12-12",
+    "endDate": "2022-12-20",
+    "dimensions": [
+      "PAGE"
+    ]
+  }
+
+// RESPONSE
+  {
+    "rows": [
+      {
+        "keys": [
+          "https://mysite.com/page name/"
+        ],
+        "clicks": 329,
+        "impressions": 3930,
+        "ctr": 0.083715012722646309,
+        "position": 28.295165394402037
+      },
+      {
+        "keys": [
+          "https://mysite.com/page name/"
+        ],
+        "clicks": 135,
+        "impressions": 5682,
+        "ctr": 0.023759239704329461,
+        "position": 38.4679690249912
+      },
+      {
+        "keys": [
+          "https://mysite.com/page name/"
+        ],
+        "clicks": 18,
+        "impressions": 687,
+        "ctr": 0.026200873362445413,
+        "position": 25.283842794759824
+      },
+      {
+        "keys": [
+          "https://mysite.com/page name/"
+        ],
+        "clicks": 14,
+        "impressions": 3822,
+        "ctr": 0.003663003663003663,
+        "position": 17.055991627420198
+      },
