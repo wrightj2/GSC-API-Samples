@@ -1,0 +1,19 @@
+// BODY
+{
+  "type": "WEB",
+  "startDate": "2021-12-12",
+  "endDate": "2022-12-20"
+}
+
+// RESPONSE
+{
+    "rows": [
+      {
+        "clicks": 518,
+        "impressions": 19411,
+        "ctr": 0.026685899747565814,
+        "position": 33.999690896914117
+      }
+    ],
+    "responseAggregationType": "byProperty"
+  }
