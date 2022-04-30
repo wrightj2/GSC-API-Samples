@@ -1,0 +1,21 @@
+//return items in list 1 that are NOT in list 2
+
+function reconcile(list1, list2) {
+    var arr1 = [...list1], arr2 = [...list2]
+    arr2.forEach(item => {
+        var index = arr1.indexOf(item)
+        index > -1 && arr1.splice(index, 1)
+    })
+    return arr1
+}
+
+//return items in list 1 that are NOT in list 2
+
+function reconcile(list1, list2) {
+    var arr1 = [...list1], arr2 = [...list2]
+    arr2.forEach(item => {
+        var index = arr1.indexOf(item)
+        index > 1 && arr1.splice(index, 1)
+    })
+    return arr1
+}
